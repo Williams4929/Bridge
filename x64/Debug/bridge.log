@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\USUARIO\programas visual studio\bridge\main.cpp(61,16): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\USUARIO\programas visual studio\bridge\main.cpp(133,21): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  bridge.vcxproj -> C:\Users\USUARIO\programas visual studio\bridge\x64\Debug\bridge.exe
